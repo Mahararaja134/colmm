@@ -16,7 +16,7 @@ class script(object):
 - Source - <a href=https://github.com/TechnoMindz/CommonBot_For_All><b><i>Techno Mindz</i></b></a>  
 
 <b>DEVS:</b>
-- <a href=https://t.me/TechnoKillerbot><b><i>★彡[ʀᴀᴠɪɴᴀɴᴅᴀɴ]彡★</i></b></a>"""
+- <a href=https://t.me/TechnoKillerbot><b><i>★彡sridhar彡★</i></b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Techno will respond whenever a keyword is found the message
